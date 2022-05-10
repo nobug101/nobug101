@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| 功能 | Win | Mac |
+| :----:| :----: | :----: |
+| 保存表 | Ctrl+N |⌘+N|
+| 保存表 | Ctrl+N |⌘+N|
+
